@@ -1,0 +1,600 @@
+rlcAmEnabled 1 bufferSize 20 interPacketInterval 20 x2Latency 500 mmeLatency 10000 mobileSpeed 20 fileName nb4bsv1threshold20
+Lte uplink 0
+bandwidth 0 = 1.00001e+09
+bandwidth 0 = 1.00001e+09
+bandwidth 0 = 1.00001e+09
+bandwidth 0 = 1.00001e+09
+SetBeamformingVector between UE 0x55c00fb090c0 and enbDevice 0x55c00faffab0
+UMa scenario, channel condition is fixed to be l, h_BS=3,h_UT=1.6
+SetBeamformingVector between UE 0x55c00fb090c0 and enbDevice 0x55c00fb0a030
+UMa scenario, channel condition is fixed to be l, h_BS=3,h_UT=1.6
+SetBeamformingVector between UE 0x55c00fb090c0 and enbDevice 0x55c00fb1c420
+UMa scenario, channel condition is fixed to be l, h_BS=3,h_UT=1.6
+SetBeamformingVector between UE 0x55c00fb090c0 and enbDevice 0x55c00fb2d4d0
+UMa scenario, channel condition is fixed to be l, h_BS=3,h_UT=1.6
+m_lteOutputFilename LteSwitchStats.txt
+Position +****************************** 0:170:1.6 at time 0
+UE register to enb 2
+0.2s: 	879.984 Mbit/s
+************************--------------------Change Speed-------------------------------*****************
+0.3s: 	999.936 Mbit/s
+0.4s: 	1000.05 Mbit/s
+0.5s: 	999.936 Mbit/s
+0.6s: 	1000.05 Mbit/s
+0.7s: 	999.936 Mbit/s
+0.8s: 	1000.05 Mbit/s
+0.9s: 	1000.05 Mbit/s
+1s: 	999.936 Mbit/s
+1.1s: 	1000.05 Mbit/s
+1.2s: 	999.936 Mbit/s
+1.3s: 	1000.05 Mbit/s
+1.4s: 	999.936 Mbit/s
+1.5s: 	1000.05 Mbit/s
+1.6s: 	1000.05 Mbit/s
+1.7s: 	999.936 Mbit/s
+1.8s: 	1000.05 Mbit/s
+1.9s: 	999.936 Mbit/s
+2s: 	1000.05 Mbit/s
+2.1s: 	999.936 Mbit/s
+2.2s: 	1000.05 Mbit/s
+2.3s: 	1000.05 Mbit/s
+2.4s: 	999.936 Mbit/s
+2.5s: 	1000.05 Mbit/s
+2.6s: 	999.936 Mbit/s
+2.7s: 	1000.05 Mbit/s
+2.8s: 	999.936 Mbit/s
+2.9s: 	1000.05 Mbit/s
+3s: 	1000.05 Mbit/s
+3.1s: 	999.936 Mbit/s
+3.2s: 	1000.05 Mbit/s
+3.3s: 	999.936 Mbit/s
+3.4s: 	1000.05 Mbit/s
+UE register to enb 3
+DoNotifyRandomAccessSuccessful at time 3.422
+3.5s: 	1031.07 Mbit/s
+3.6s: 	1000.05 Mbit/s
+3.7s: 	1000.05 Mbit/s
+3.8s: 	999.936 Mbit/s
+3.9s: 	1000.05 Mbit/s
+4s: 	999.936 Mbit/s
+4.1s: 	1000.05 Mbit/s
+4.2s: 	999.936 Mbit/s
+4.3s: 	1000.05 Mbit/s
+4.4s: 	1000.05 Mbit/s
+4.5s: 	999.936 Mbit/s
+4.6s: 	1000.05 Mbit/s
+4.7s: 	999.936 Mbit/s
+4.8s: 	1000.05 Mbit/s
+4.9s: 	999.936 Mbit/s
+5s: 	1000.05 Mbit/s
+5.1s: 	1000.05 Mbit/s
+Position +****************************** 98.48:170:1.6 at time 5.124
+Fragment too small in txonBuffer, pos 1
+Too small, not forwarded
+UE register to enb 2
+DoNotifyRandomAccessSuccessful at time 5.1564
+5.2s: 	1033.09 Mbit/s
+5.3s: 	1000.05 Mbit/s
+5.4s: 	999.936 Mbit/s
+5.5s: 	1000.05 Mbit/s
+5.6s: 	999.936 Mbit/s
+5.7s: 	1000.05 Mbit/s
+5.8s: 	1000.05 Mbit/s
+5.9s: 	999.936 Mbit/s
+6s: 	995.008 Mbit/s
+6.1s: 	1004.98 Mbit/s
+6.2s: 	1000.05 Mbit/s
+6.3s: 	999.936 Mbit/s
+6.4s: 	1000.05 Mbit/s
+UE register to enb 3
+DoNotifyRandomAccessSuccessful at time 6.4476
+6.5s: 	888.16 Mbit/s
+6.6s: 	1139.15 Mbit/s
+6.7s: 	1000.05 Mbit/s
+6.8s: 	999.936 Mbit/s
+6.9s: 	1000.05 Mbit/s
+7s: 	999.936 Mbit/s
+7.1s: 	1000.05 Mbit/s
+7.2s: 	1000.05 Mbit/s
+7.3s: 	999.936 Mbit/s
+7.4s: 	995.008 Mbit/s
+7.5s: 	1004.98 Mbit/s
+7.6s: 	1000.05 Mbit/s
+7.7s: 	999.936 Mbit/s
+7.8s: 	1000.05 Mbit/s
+7.9s: 	1000.05 Mbit/s
+8s: 	999.936 Mbit/s
+8.1s: 	1000.05 Mbit/s
+8.2s: 	999.936 Mbit/s
+8.3s: 	1000.05 Mbit/s
+8.4s: 	999.936 Mbit/s
+8.5s: 	1000.05 Mbit/s
+8.6s: 	1000.05 Mbit/s
+8.7s: 	999.936 Mbit/s
+8.8s: 	1000.05 Mbit/s
+8.9s: 	999.936 Mbit/s
+9s: 	1000.05 Mbit/s
+9.1s: 	999.936 Mbit/s
+9.2s: 	1000.05 Mbit/s
+9.3s: 	1000.05 Mbit/s
+9.4s: 	999.936 Mbit/s
+9.5s: 	1000.05 Mbit/s
+9.6s: 	999.936 Mbit/s
+9.7s: 	1000.05 Mbit/s
+9.8s: 	999.936 Mbit/s
+9.9s: 	1000.05 Mbit/s
+10s: 	1000.05 Mbit/s
+10.1s: 	999.936 Mbit/s
+10.2s: 	1000.05 Mbit/s
+Position +****************************** 200.96:170:1.6 at time 10.248
+10.3s: 	999.936 Mbit/s
+10.4s: 	1000.05 Mbit/s
+10.5s: 	999.936 Mbit/s
+10.6s: 	1000.05 Mbit/s
+10.7s: 	1000.05 Mbit/s
+10.8s: 	999.936 Mbit/s
+10.9s: 	1000.05 Mbit/s
+11s: 	999.936 Mbit/s
+11.1s: 	1000.05 Mbit/s
+11.2s: 	999.936 Mbit/s
+11.3s: 	1000.05 Mbit/s
+11.4s: 	1000.05 Mbit/s
+11.5s: 	999.936 Mbit/s
+11.6s: 	1000.05 Mbit/s
+11.7s: 	999.936 Mbit/s
+11.8s: 	1000.05 Mbit/s
+11.9s: 	999.936 Mbit/s
+12s: 	1000.05 Mbit/s
+12.1s: 	1000.05 Mbit/s
+12.2s: 	999.936 Mbit/s
+12.3s: 	1000.05 Mbit/s
+12.4s: 	999.936 Mbit/s
+12.5s: 	1000.05 Mbit/s
+12.6s: 	999.936 Mbit/s
+12.7s: 	1000.05 Mbit/s
+12.8s: 	1000.05 Mbit/s
+12.9s: 	999.936 Mbit/s
+13s: 	1000.05 Mbit/s
+13.1s: 	999.936 Mbit/s
+13.2s: 	1000.05 Mbit/s
+13.3s: 	999.936 Mbit/s
+13.4s: 	1000.05 Mbit/s
+13.5s: 	1000.05 Mbit/s
+13.6s: 	999.936 Mbit/s
+13.7s: 	1000.05 Mbit/s
+13.8s: 	999.936 Mbit/s
+13.9s: 	1000.05 Mbit/s
+14s: 	999.936 Mbit/s
+14.1s: 	1000.05 Mbit/s
+14.2s: 	1000.05 Mbit/s
+UE register to enb 4
+DoNotifyRandomAccessSuccessful at time 14.206
+14.3s: 	500.192 Mbit/s
+14.4s: 	1062.32 Mbit/s
+14.5s: 	1072.4 Mbit/s
+14.6s: 	1067.92 Mbit/s
+14.7s: 	1042.05 Mbit/s
+14.8s: 	1023.68 Mbit/s
+14.9s: 	820.736 Mbit/s
+15s: 	721.168 Mbit/s
+15.1s: 	686.56 Mbit/s
+UE register to enb 2
+DoNotifyRandomAccessSuccessful at time 15.1052
+15.2s: 	25.536 Mbit/s
+15.3s: 	1002.74 Mbit/s
+Position +****************************** 303.44:170:1.6 at time 15.372
+15.4s: 	1175.33 Mbit/s
+15.5s: 	999.376 Mbit/s
+UE register to enb 3
+DoNotifyRandomAccessSuccessful at time 15.5052
+15.6s: 	40.32 Mbit/s
+15.7s: 	606.48 Mbit/s
+15.8s: 	1078.56 Mbit/s
+15.9s: 	1329.44 Mbit/s
+16s: 	1333.02 Mbit/s
+16.1s: 	1248.46 Mbit/s
+16.2s: 	1294.5 Mbit/s
+16.3s: 	1032.86 Mbit/s
+16.4s: 	810.32 Mbit/s
+16.5s: 	706.944 Mbit/s
+16.6s: 	820.624 Mbit/s
+UE register to enb 5
+DoNotifyRandomAccessSuccessful at time 16.6412
+16.7s: 	354.704 Mbit/s
+16.8s: 	954.352 Mbit/s
+UE register to enb 4
+DoNotifyRandomAccessSuccessful at time 16.8636
+16.9s: 	786.24 Mbit/s
+17s: 	1360.24 Mbit/s
+17.1s: 	1492.51 Mbit/s
+17.2s: 	1786.62 Mbit/s
+17.3s: 	999.936 Mbit/s
+17.4s: 	1000.05 Mbit/s
+17.5s: 	999.936 Mbit/s
+17.6s: 	1000.05 Mbit/s
+17.7s: 	1000.05 Mbit/s
+17.8s: 	999.936 Mbit/s
+17.9s: 	1000.05 Mbit/s
+18s: 	999.936 Mbit/s
+18.1s: 	1000.05 Mbit/s
+18.2s: 	999.936 Mbit/s
+18.3s: 	1000.05 Mbit/s
+18.4s: 	1000.05 Mbit/s
+18.5s: 	999.936 Mbit/s
+18.6s: 	1000.05 Mbit/s
+18.7s: 	999.936 Mbit/s
+18.8s: 	1000.05 Mbit/s
+18.9s: 	999.936 Mbit/s
+19s: 	1000.05 Mbit/s
+19.1s: 	1000.05 Mbit/s
+19.2s: 	999.936 Mbit/s
+19.3s: 	1000.05 Mbit/s
+19.4s: 	999.936 Mbit/s
+19.5s: 	1000.05 Mbit/s
+19.6s: 	999.936 Mbit/s
+19.7s: 	1000.05 Mbit/s
+19.8s: 	1000.05 Mbit/s
+19.9s: 	999.936 Mbit/s
+20s: 	1000.05 Mbit/s
+20.1s: 	999.936 Mbit/s
+20.2s: 	1000.05 Mbit/s
+20.3s: 	999.936 Mbit/s
+20.4s: 	1000.05 Mbit/s
+Position +****************************** 405.92:170:1.6 at time 20.496
+20.5s: 	1000.05 Mbit/s
+20.6s: 	999.936 Mbit/s
+20.7s: 	1000.05 Mbit/s
+20.8s: 	999.936 Mbit/s
+20.9s: 	1000.05 Mbit/s
+21s: 	999.936 Mbit/s
+21.1s: 	1000.05 Mbit/s
+21.2s: 	1000.05 Mbit/s
+21.3s: 	999.936 Mbit/s
+21.4s: 	1000.05 Mbit/s
+21.5s: 	999.936 Mbit/s
+21.6s: 	1000.05 Mbit/s
+21.7s: 	999.936 Mbit/s
+21.8s: 	1000.05 Mbit/s
+21.9s: 	1000.05 Mbit/s
+22s: 	999.936 Mbit/s
+22.1s: 	1000.05 Mbit/s
+22.2s: 	999.936 Mbit/s
+22.3s: 	1000.05 Mbit/s
+22.4s: 	999.936 Mbit/s
+22.5s: 	1000.05 Mbit/s
+22.6s: 	1000.05 Mbit/s
+22.7s: 	999.936 Mbit/s
+22.8s: 	1000.05 Mbit/s
+22.9s: 	999.936 Mbit/s
+23s: 	1000.05 Mbit/s
+23.1s: 	999.936 Mbit/s
+23.2s: 	1000.05 Mbit/s
+23.3s: 	1000.05 Mbit/s
+23.4s: 	999.936 Mbit/s
+23.5s: 	1000.05 Mbit/s
+23.6s: 	999.936 Mbit/s
+23.7s: 	1000.05 Mbit/s
+23.8s: 	999.936 Mbit/s
+23.9s: 	1000.05 Mbit/s
+24s: 	995.008 Mbit/s
+24.1s: 	1004.98 Mbit/s
+24.2s: 	1000.05 Mbit/s
+UE register to enb 5
+DoNotifyRandomAccessSuccessful at time 24.2764
+24.3s: 	786.8 Mbit/s
+24.4s: 	1266.61 Mbit/s
+24.5s: 	999.936 Mbit/s
+24.6s: 	1000.05 Mbit/s
+24.7s: 	1000.05 Mbit/s
+24.8s: 	999.824 Mbit/s
+24.9s: 	1000.16 Mbit/s
+25s: 	999.936 Mbit/s
+25.1s: 	1000.05 Mbit/s
+25.2s: 	999.936 Mbit/s
+UE register to enb 4
+DoNotifyRandomAccessSuccessful at time 25.2556
+25.3s: 	915.488 Mbit/s
+25.4s: 	1119.44 Mbit/s
+25.5s: 	1008.67 Mbit/s
+25.6s: 	829.024 Mbit/s
+Position +****************************** 508.4:170:1.6 at time 25.62
+25.7s: 	874.608 Mbit/s
+25.8s: 	910.896 Mbit/s
+25.9s: 	874.944 Mbit/s
+26s: 	1110.82 Mbit/s
+26.1s: 	1075.76 Mbit/s
+26.2s: 	1075.98 Mbit/s
+26.3s: 	1074.86 Mbit/s
+26.4s: 	1203.44 Mbit/s
+26.5s: 	1000.05 Mbit/s
+26.6s: 	999.936 Mbit/s
+26.7s: 	1000.05 Mbit/s
+26.8s: 	1000.05 Mbit/s
+UE register to enb 5
+DoNotifyRandomAccessSuccessful at time 26.8924
+26.9s: 	971.04 Mbit/s
+27s: 	1112.83 Mbit/s
+27.1s: 	999.936 Mbit/s
+27.2s: 	1000.05 Mbit/s
+27.3s: 	999.936 Mbit/s
+27.4s: 	1000.05 Mbit/s
+27.5s: 	1000.05 Mbit/s
+27.6s: 	999.936 Mbit/s
+27.7s: 	1000.05 Mbit/s
+27.8s: 	999.936 Mbit/s
+27.9s: 	1000.05 Mbit/s
+28s: 	999.936 Mbit/s
+28.1s: 	1000.05 Mbit/s
+28.2s: 	1000.05 Mbit/s
+28.3s: 	999.936 Mbit/s
+28.4s: 	1000.05 Mbit/s
+28.5s: 	999.936 Mbit/s
+28.6s: 	1000.05 Mbit/s
+28.7s: 	999.936 Mbit/s
+28.8s: 	1000.05 Mbit/s
+28.9s: 	998.032 Mbit/s
+29s: 	1001.95 Mbit/s
+29.1s: 	1000.05 Mbit/s
+29.2s: 	999.936 Mbit/s
+29.3s: 	1000.05 Mbit/s
+29.4s: 	999.936 Mbit/s
+29.5s: 	1000.05 Mbit/s
+29.6s: 	1000.05 Mbit/s
+29.7s: 	999.936 Mbit/s
+29.8s: 	1000.05 Mbit/s
+29.9s: 	999.936 Mbit/s
+30s: 	1000.05 Mbit/s
+30.1s: 	999.936 Mbit/s
+30.2s: 	1000.05 Mbit/s
+30.3s: 	1000.05 Mbit/s
+30.4s: 	999.936 Mbit/s
+30.5s: 	1000.05 Mbit/s
+30.6s: 	999.936 Mbit/s
+30.7s: 	1000.05 Mbit/s
+Position +****************************** 610.88:170:1.6 at time 30.744
+30.8s: 	999.936 Mbit/s
+30.9s: 	1000.05 Mbit/s
+31s: 	1000.05 Mbit/s
+31.1s: 	999.936 Mbit/s
+31.2s: 	1000.05 Mbit/s
+31.3s: 	999.936 Mbit/s
+31.4s: 	1000.05 Mbit/s
+31.5s: 	999.936 Mbit/s
+31.6s: 	1000.05 Mbit/s
+31.7s: 	1000.05 Mbit/s
+31.8s: 	999.936 Mbit/s
+31.9s: 	1000.05 Mbit/s
+32s: 	999.936 Mbit/s
+32.1s: 	1000.05 Mbit/s
+32.2s: 	999.936 Mbit/s
+32.3s: 	1000.05 Mbit/s
+32.4s: 	1000.05 Mbit/s
+32.5s: 	994.896 Mbit/s
+32.6s: 	1005.09 Mbit/s
+32.7s: 	999.936 Mbit/s
+32.8s: 	1000.05 Mbit/s
+32.9s: 	999.936 Mbit/s
+33s: 	1000.05 Mbit/s
+33.1s: 	1000.05 Mbit/s
+33.2s: 	999.936 Mbit/s
+33.3s: 	1000.05 Mbit/s
+33.4s: 	999.936 Mbit/s
+33.5s: 	1000.05 Mbit/s
+33.6s: 	999.936 Mbit/s
+33.7s: 	1000.05 Mbit/s
+33.8s: 	1000.05 Mbit/s
+33.9s: 	999.936 Mbit/s
+34s: 	1000.05 Mbit/s
+34.1s: 	999.936 Mbit/s
+34.2s: 	955.808 Mbit/s
+34.3s: 	749.28 Mbit/s
+34.4s: 	698.88 Mbit/s
+UE register to enb 4
+DoNotifyRandomAccessSuccessful at time 34.406
+34.5s: 	474.208 Mbit/s
+34.6s: 	808.64 Mbit/s
+34.7s: 	819.728 Mbit/s
+34.8s: 	894.88 Mbit/s
+34.9s: 	700 Mbit/s
+35s: 	860.16 Mbit/s
+35.1s: 	835.968 Mbit/s
+35.2s: 	1103.42 Mbit/s
+35.3s: 	1148.9 Mbit/s
+35.4s: 	1350.16 Mbit/s
+35.5s: 	1373.23 Mbit/s
+35.6s: 	1352.18 Mbit/s
+UE register to enb 5
+DoNotifyRandomAccessSuccessful at time 35.6236
+35.7s: 	348.656 Mbit/s
+35.8s: 	1769.04 Mbit/s
+Position +****************************** 713.36:170:1.6 at time 35.868
+35.9s: 	1214.86 Mbit/s
+36s: 	999.936 Mbit/s
+36.1s: 	1000.05 Mbit/s
+36.2s: 	999.936 Mbit/s
+36.3s: 	1000.05 Mbit/s
+36.4s: 	999.936 Mbit/s
+36.5s: 	1000.05 Mbit/s
+36.6s: 	1000.05 Mbit/s
+36.7s: 	999.936 Mbit/s
+36.8s: 	1000.05 Mbit/s
+36.9s: 	999.936 Mbit/s
+37s: 	1000.05 Mbit/s
+37.1s: 	999.936 Mbit/s
+37.2s: 	1000.05 Mbit/s
+37.3s: 	1000.05 Mbit/s
+37.4s: 	999.936 Mbit/s
+37.5s: 	1000.05 Mbit/s
+37.6s: 	999.936 Mbit/s
+37.7s: 	1000.05 Mbit/s
+37.8s: 	999.936 Mbit/s
+37.9s: 	1000.05 Mbit/s
+38s: 	1000.05 Mbit/s
+38.1s: 	995.904 Mbit/s
+38.2s: 	1004.08 Mbit/s
+38.3s: 	918.176 Mbit/s
+38.4s: 	763.168 Mbit/s
+38.5s: 	470.176 Mbit/s
+UE register to enb 2
+DoNotifyRandomAccessSuccessful at time 38.5132
+38.6s: 	118.608 Mbit/s
+38.7s: 	483.056 Mbit/s
+38.8s: 	708.176 Mbit/s
+38.9s: 	702.464 Mbit/s
+39s: 	721.84 Mbit/s
+39.1s: 	721.504 Mbit/s
+39.2s: 	596.736 Mbit/s
+39.3s: 	637.056 Mbit/s
+39.4s: 	563.248 Mbit/s
+UE register to enb 3
+DoNotifyRandomAccessSuccessful at time 39.4924
+39.5s: 	514.08 Mbit/s
+39.6s: 	663.488 Mbit/s
+39.7s: 	742.448 Mbit/s
+39.8s: 	648.928 Mbit/s
+UE register to enb 5
+DoNotifyRandomAccessSuccessful at time 39.806
+39.9s: 	1737.34 Mbit/s
+40s: 	1161.22 Mbit/s
+40.1s: 	1050.78 Mbit/s
+40.2s: 	1329.1 Mbit/s
+40.3s: 	1261.68 Mbit/s
+40.4s: 	1076.99 Mbit/s
+UE register to enb 2
+DoNotifyRandomAccessSuccessful at time 40.4988
+40.5s: 	943.824 Mbit/s
+40.6s: 	1062.43 Mbit/s
+40.7s: 	818.496 Mbit/s
+UE register to enb 3
+DoNotifyRandomAccessSuccessful at time 40.7196
+40.8s: 	947.856 Mbit/s
+40.9s: 	818.832 Mbit/s
+Position +****************************** 815.84:170:1.6 at time 40.992
+41s: 	821.072 Mbit/s
+41.1s: 	977.536 Mbit/s
+41.2s: 	813.12 Mbit/s
+41.3s: 	850.752 Mbit/s
+41.4s: 	1053.81 Mbit/s
+41.5s: 	953.344 Mbit/s
+UE register to enb 5
+DoNotifyRandomAccessSuccessful at time 41.5116
+41.6s: 	514.416 Mbit/s
+41.7s: 	1081.58 Mbit/s
+41.8s: 	1242.19 Mbit/s
+41.9s: 	1253.17 Mbit/s
+42s: 	1234.8 Mbit/s
+42.1s: 	1294.05 Mbit/s
+42.2s: 	1179.02 Mbit/s
+42.3s: 	1244.43 Mbit/s
+42.4s: 	1000.05 Mbit/s
+42.5s: 	999.936 Mbit/s
+UE register to enb 2
+DoNotifyRandomAccessSuccessful at time 42.5905
+42.6s: 	887.152 Mbit/s
+42.7s: 	991.648 Mbit/s
+42.8s: 	1079.01 Mbit/s
+42.9s: 	918.624 Mbit/s
+43s: 	1031.86 Mbit/s
+43.1s: 	967.232 Mbit/s
+43.2s: 	812 Mbit/s
+43.3s: 	916.72 Mbit/s
+43.4s: 	962.864 Mbit/s
+43.5s: 	771.344 Mbit/s
+UE register to enb 5
+DoNotifyRandomAccessSuccessful at time 43.5772
+43.6s: 	613.648 Mbit/s
+43.7s: 	936.656 Mbit/s
+43.8s: 	1043.39 Mbit/s
+43.9s: 	1096.93 Mbit/s
+44s: 	930.496 Mbit/s
+44.1s: 	790.944 Mbit/s
+44.2s: 	819.168 Mbit/s
+44.3s: 	787.584 Mbit/s
+44.4s: 	583.744 Mbit/s
+44.5s: 	487.088 Mbit/s
+44.6s: 	487.2 Mbit/s
+44.7s: 	547.008 Mbit/s
+44.8s: 	823.424 Mbit/s
+44.9s: 	498.624 Mbit/s
+45s: 	428.96 Mbit/s
+45.1s: 	331.856 Mbit/s
+UE register to enb 3
+DoNotifyRandomAccessSuccessful at time 45.1468
+45.2s: 	119.056 Mbit/s
+45.3s: 	214.032 Mbit/s
+45.4s: 	222.208 Mbit/s
+UE register to enb 5
+DoNotifyRandomAccessSuccessful at time 45.4396
+45.5s: 	161.392 Mbit/s
+45.6s: 	485.744 Mbit/s
+45.7s: 	513.408 Mbit/s
+45.8s: 	578.032 Mbit/s
+45.9s: 	544.32 Mbit/s
+UE register to enb 2
+DoNotifyRandomAccessSuccessful at time 45.9836
+46s: 	506.128 Mbit/s
+46.1s: 	764.512 Mbit/s
+Position +****************************** 918.32:170:1.6 at time 46.116
+46.2s: 	882.224 Mbit/s
+46.3s: 	851.536 Mbit/s
+UE register to enb 4
+DoNotifyRandomAccessSuccessful at time 46.3884
+46.4s: 	644 Mbit/s
+46.5s: 	740.88 Mbit/s
+46.6s: 	672.448 Mbit/s
+46.7s: 	754.544 Mbit/s
+46.8s: 	898.128 Mbit/s
+UE register to enb 2
+DoNotifyRandomAccessSuccessful at time 46.846
+46.9s: 	816.704 Mbit/s
+47s: 	1094.46 Mbit/s
+47.1s: 	1108.69 Mbit/s
+47.2s: 	1251.82 Mbit/s
+UE register to enb 4
+DoNotifyRandomAccessSuccessful at time 47.2956
+47.3s: 	959.84 Mbit/s
+47.4s: 	1063.1 Mbit/s
+47.5s: 	855.792 Mbit/s
+47.6s: 	811.888 Mbit/s
+47.7s: 	854.224 Mbit/s
+47.8s: 	854.224 Mbit/s
+47.9s: 	958.832 Mbit/s
+48s: 	602 Mbit/s
+48.1s: 	525.168 Mbit/s
+48.2s: 	487.2 Mbit/s
+48.3s: 	487.2 Mbit/s
+48.4s: 	578.144 Mbit/s
+48.5s: 	736.96 Mbit/s
+48.6s: 	640.304 Mbit/s
+48.7s: 	486.976 Mbit/s
+48.8s: 	488.88 Mbit/s
+48.9s: 	638.624 Mbit/s
+49s: 	583.296 Mbit/s
+49.1s: 	509.376 Mbit/s
+49.2s: 	526.736 Mbit/s
+UE register to enb 3
+DoNotifyRandomAccessSuccessful at time 49.238
+49.3s: 	426.16 Mbit/s
+49.4s: 	486.864 Mbit/s
+UE register to enb 4
+DoNotifyRandomAccessSuccessful at time 49.4748
+49.5s: 	564.928 Mbit/s
+49.6s: 	656.656 Mbit/s
+49.7s: 	603.568 Mbit/s
+49.8s: 	636.832 Mbit/s
+49.9s: 	691.264 Mbit/s
+50s: 	539.728 Mbit/s
+50.1s: 	659.12 Mbit/s
+50.2s: 	808.192 Mbit/s
+50.3s: 	728.448 Mbit/s
+50.4s: 	882.56 Mbit/s
+50.5s: 	819.728 Mbit/s
+50.6s: 	715.568 Mbit/s
+UE register to enb 2
+DoNotifyRandomAccessSuccessful at time 50.6108
+50.7s: 	843.248 Mbit/s
+50.8s: 	1045.86 Mbit/s
+50.9s: 	1064.34 Mbit/s
+51s: 	1406.94 Mbit/s
+51.1s: 	1487.92 Mbit/s
+51.2s: 	1386.67 Mbit/s
