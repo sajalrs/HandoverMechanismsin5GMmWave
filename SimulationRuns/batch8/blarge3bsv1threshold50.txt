@@ -1,0 +1,238 @@
+rlcAmEnabled 1 bufferSize 20 interPacketInterval 20 x2Latency 500 mmeLatency 10000 mobileSpeed 50 fileName blarge3bsv1threshold50
+Lte uplink 0
+bandwidth 0 = 1.00001e+09
+bandwidth 0 = 1.00001e+09
+bandwidth 0 = 1.00001e+09
+SetBeamformingVector between UE 0x5619d011a190 and enbDevice 0x5619d0110b90
+UMa scenario, channel condition is fixed to be l, h_BS=3,h_UT=1.6
+SetBeamformingVector between UE 0x5619d011a190 and enbDevice 0x5619d011b100
+UMa scenario, channel condition is fixed to be n, h_BS=3,h_UT=1.6
+SetBeamformingVector between UE 0x5619d011a190 and enbDevice 0x5619d012d4f0
+UMa scenario, channel condition is fixed to be n, h_BS=3,h_UT=1.6
+m_lteOutputFilename LteSwitchStats.txt
+Position +****************************** 0:170:1.6 at time 0
+UE register to enb 2
+0.2s: 	879.984 Mbit/s
+************************--------------------Change Speed-------------------------------*****************
+0.3s: 	999.936 Mbit/s
+0.4s: 	1000.05 Mbit/s
+0.5s: 	999.936 Mbit/s
+0.6s: 	1000.05 Mbit/s
+0.7s: 	999.936 Mbit/s
+0.8s: 	1000.05 Mbit/s
+0.9s: 	1000.05 Mbit/s
+1s: 	999.936 Mbit/s
+1.1s: 	1000.05 Mbit/s
+1.2s: 	999.936 Mbit/s
+1.3s: 	1000.05 Mbit/s
+1.4s: 	999.936 Mbit/s
+1.5s: 	1000.05 Mbit/s
+1.6s: 	1000.05 Mbit/s
+1.7s: 	999.936 Mbit/s
+1.8s: 	1000.05 Mbit/s
+1.9s: 	999.936 Mbit/s
+2s: 	359.072 Mbit/s
+2.1s: 	155.456 Mbit/s
+Position +****************************** 96.2:170:1.6 at time 2.124
+2.2s: 	1176.11 Mbit/s
+2.3s: 	1317.57 Mbit/s
+2.4s: 	1349.49 Mbit/s
+2.5s: 	1642.37 Mbit/s
+2.6s: 	999.936 Mbit/s
+2.7s: 	1000.05 Mbit/s
+2.8s: 	999.936 Mbit/s
+2.9s: 	1000.05 Mbit/s
+3s: 	999.04 Mbit/s
+3.1s: 	1000.94 Mbit/s
+3.2s: 	997.584 Mbit/s
+3.3s: 	818.72 Mbit/s
+3.4s: 	524.608 Mbit/s
+3.5s: 	212.464 Mbit/s
+3.6s: 	70.224 Mbit/s
+3.7s: 	73.696 Mbit/s
+3.8s: 	73.696 Mbit/s
+3.9s: 	73.696 Mbit/s
+4s: 	73.696 Mbit/s
+4.1s: 	180.432 Mbit/s
+4.2s: 	312.368 Mbit/s
+UMa scenario, channel condition is fixed to be n, h_BS=3,h_UT=1.6
+UMa scenario, channel condition is fixed to be l, h_BS=3,h_UT=1.6
+Position +****************************** 202.4:170:1.6 at time 4.248
+4.3s: 	0.448 Mbit/s
+4.4s: 	0 Mbit/s
+4.5s: 	0 Mbit/s
+4.6s: 	0 Mbit/s
+4.7s: 	68.88 Mbit/s
+4.8s: 	73.696 Mbit/s
+4.9s: 	73.584 Mbit/s
+5s: 	73.696 Mbit/s
+5.1s: 	73.696 Mbit/s
+5.2s: 	73.696 Mbit/s
+5.3s: 	73.696 Mbit/s
+5.4s: 	73.696 Mbit/s
+5.5s: 	73.696 Mbit/s
+5.6s: 	73.696 Mbit/s
+5.7s: 	73.696 Mbit/s
+5.8s: 	73.584 Mbit/s
+5.9s: 	73.696 Mbit/s
+6s: 	73.696 Mbit/s
+6.1s: 	73.696 Mbit/s
+6.2s: 	73.696 Mbit/s
+6.3s: 	73.696 Mbit/s
+Position +****************************** 308.6:170:1.6 at time 6.372
+6.4s: 	73.696 Mbit/s
+6.5s: 	73.696 Mbit/s
+6.6s: 	73.696 Mbit/s
+6.7s: 	73.696 Mbit/s
+6.8s: 	73.584 Mbit/s
+6.9s: 	73.696 Mbit/s
+7s: 	73.696 Mbit/s
+7.1s: 	73.696 Mbit/s
+7.2s: 	73.696 Mbit/s
+7.3s: 	73.696 Mbit/s
+7.4s: 	73.696 Mbit/s
+7.5s: 	73.696 Mbit/s
+7.6s: 	73.696 Mbit/s
+7.7s: 	73.584 Mbit/s
+7.8s: 	73.696 Mbit/s
+7.9s: 	73.696 Mbit/s
+8s: 	73.696 Mbit/s
+8.1s: 	73.696 Mbit/s
+8.2s: 	73.696 Mbit/s
+UMa scenario, channel condition is fixed to be l, h_BS=3,h_UT=1.6
+8.3s: 	73.696 Mbit/s
+8.4s: 	73.696 Mbit/s
+Position +****************************** 414.8:170:1.6 at time 8.496
+8.5s: 	73.696 Mbit/s
+8.6s: 	73.696 Mbit/s
+8.7s: 	73.584 Mbit/s
+8.8s: 	73.696 Mbit/s
+8.9s: 	73.696 Mbit/s
+9s: 	73.696 Mbit/s
+9.1s: 	73.696 Mbit/s
+9.2s: 	73.696 Mbit/s
+9.3s: 	73.696 Mbit/s
+9.4s: 	73.696 Mbit/s
+9.5s: 	73.696 Mbit/s
+9.6s: 	73.584 Mbit/s
+9.7s: 	73.696 Mbit/s
+9.8s: 	73.696 Mbit/s
+9.9s: 	73.696 Mbit/s
+10s: 	73.696 Mbit/s
+10.1s: 	73.696 Mbit/s
+10.2s: 	73.696 Mbit/s
+10.3s: 	73.696 Mbit/s
+10.4s: 	73.696 Mbit/s
+10.5s: 	73.696 Mbit/s
+10.6s: 	73.584 Mbit/s
+Position +****************************** 521:170:1.6 at time 10.62
+10.7s: 	73.696 Mbit/s
+10.8s: 	73.696 Mbit/s
+10.9s: 	73.696 Mbit/s
+11s: 	73.696 Mbit/s
+11.1s: 	73.696 Mbit/s
+11.2s: 	73.696 Mbit/s
+11.3s: 	73.696 Mbit/s
+11.4s: 	73.696 Mbit/s
+11.5s: 	73.584 Mbit/s
+11.6s: 	73.696 Mbit/s
+11.7s: 	73.696 Mbit/s
+11.8s: 	73.696 Mbit/s
+11.9s: 	73.696 Mbit/s
+12s: 	73.696 Mbit/s
+12.1s: 	73.696 Mbit/s
+12.2s: 	73.696 Mbit/s
+12.3s: 	73.696 Mbit/s
+12.4s: 	73.696 Mbit/s
+12.5s: 	73.584 Mbit/s
+12.6s: 	73.696 Mbit/s
+12.7s: 	73.696 Mbit/s
+Position +****************************** 627.2:170:1.6 at time 12.744
+12.8s: 	73.696 Mbit/s
+12.9s: 	73.696 Mbit/s
+13s: 	73.696 Mbit/s
+13.1s: 	73.696 Mbit/s
+13.2s: 	73.696 Mbit/s
+13.3s: 	73.696 Mbit/s
+13.4s: 	73.584 Mbit/s
+13.5s: 	73.696 Mbit/s
+13.6s: 	73.696 Mbit/s
+13.7s: 	73.696 Mbit/s
+13.8s: 	73.696 Mbit/s
+13.9s: 	73.696 Mbit/s
+14s: 	73.696 Mbit/s
+14.1s: 	73.696 Mbit/s
+14.2s: 	73.696 Mbit/s
+14.3s: 	73.696 Mbit/s
+14.4s: 	73.584 Mbit/s
+14.5s: 	73.696 Mbit/s
+14.6s: 	73.696 Mbit/s
+14.7s: 	73.696 Mbit/s
+14.8s: 	73.696 Mbit/s
+Position +****************************** 733.4:170:1.6 at time 14.868
+14.9s: 	73.696 Mbit/s
+15s: 	73.696 Mbit/s
+15.1s: 	73.696 Mbit/s
+15.2s: 	73.696 Mbit/s
+15.3s: 	73.584 Mbit/s
+15.4s: 	73.696 Mbit/s
+15.5s: 	73.696 Mbit/s
+15.6s: 	73.696 Mbit/s
+15.7s: 	73.696 Mbit/s
+15.8s: 	73.696 Mbit/s
+15.9s: 	73.696 Mbit/s
+16s: 	73.696 Mbit/s
+16.1s: 	73.696 Mbit/s
+16.2s: 	73.696 Mbit/s
+16.3s: 	73.584 Mbit/s
+16.4s: 	73.696 Mbit/s
+16.5s: 	73.696 Mbit/s
+16.6s: 	73.696 Mbit/s
+16.7s: 	73.696 Mbit/s
+16.8s: 	73.696 Mbit/s
+16.9s: 	73.696 Mbit/s
+Position +****************************** 839.6:170:1.6 at time 16.992
+17s: 	73.696 Mbit/s
+17.1s: 	73.696 Mbit/s
+17.2s: 	73.584 Mbit/s
+17.3s: 	73.696 Mbit/s
+17.4s: 	73.696 Mbit/s
+17.5s: 	73.696 Mbit/s
+17.6s: 	73.696 Mbit/s
+17.7s: 	73.696 Mbit/s
+17.8s: 	73.696 Mbit/s
+17.9s: 	73.696 Mbit/s
+18s: 	73.696 Mbit/s
+18.1s: 	73.696 Mbit/s
+18.2s: 	73.584 Mbit/s
+18.3s: 	73.696 Mbit/s
+18.4s: 	73.696 Mbit/s
+18.5s: 	73.696 Mbit/s
+18.6s: 	73.696 Mbit/s
+18.7s: 	73.696 Mbit/s
+18.8s: 	73.696 Mbit/s
+18.9s: 	73.696 Mbit/s
+19s: 	73.696 Mbit/s
+19.1s: 	73.584 Mbit/s
+Position +****************************** 945.8:170:1.6 at time 19.116
+19.2s: 	73.696 Mbit/s
+19.3s: 	73.696 Mbit/s
+19.4s: 	73.696 Mbit/s
+19.5s: 	73.696 Mbit/s
+19.6s: 	73.696 Mbit/s
+19.7s: 	73.696 Mbit/s
+19.8s: 	73.696 Mbit/s
+19.9s: 	73.696 Mbit/s
+20s: 	73.696 Mbit/s
+20.1s: 	73.584 Mbit/s
+20.2s: 	73.696 Mbit/s
+20.3s: 	73.696 Mbit/s
+20.4s: 	73.696 Mbit/s
+20.5s: 	73.696 Mbit/s
+20.6s: 	73.696 Mbit/s
+20.7s: 	73.696 Mbit/s
+20.8s: 	73.696 Mbit/s
+20.9s: 	73.696 Mbit/s
+21s: 	73.584 Mbit/s
+21.1s: 	73.696 Mbit/s
+21.2s: 	73.696 Mbit/s
